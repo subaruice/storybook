@@ -20,7 +20,8 @@ Storybook will start on http://localhost:6006
 🔹 Input Component
 Smart input with clear button and password visibility toggle.
 
-<div align="center"> <img src="./public/input1.png" alt="Input Component" width="600"/> </div>
+<img width="326" height="252" alt="image" src="https://github.com/user-attachments/assets/c8e374b8-dabc-42c3-93f7-d1c5a4728252" />
+
 🔹 Sidebar Menu
 Dynamic sidebar with submenus and animated transitions.
 
